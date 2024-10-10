@@ -21,31 +21,37 @@ Open your terminal or command prompt and clone the repository using the followin
 
 ```bash
 git clone https://github.com/devang-bhardwaj/Youtube_Videos_and_Playlist_Downloader.git
+```
 
 ### Step 2: Navigate to the Project Directory
 
 - Change your working directory to the project folder:
 
-'''bash
+```bash
 cd youtube-downloader
+```
 
 ### Step 3: Install Required Libraries
 
-Before running the application, you need to install the necessary libraries. This project uses pytube for downloading videos. You can install the required packages using the requirements.txt file.
+- Before running the application, you need to install the necessary libraries. This project uses pytube for downloading videos. You can install the required packages using the requirements.txt file.
 
-Install Libraries using requirements.txt
-Ensure you have pip installed. pip is included with Python installations.
+- Install Libraries using requirements.txt
+
+- Ensure you have pip installed. pip is included with Python installations.
+
 Run the following command to install the required libraries:
 
-'''bash
+```bash
 pip install -r requirements.txt
+```
 
 ### Step 4: Run the Program
+
 Once the libraries are installed, you can run the application. Use the following command:
 
-'''bash
-
+```bash
 python youtube_downloader.py
+```
 
 ### Usage Instructions:
 
@@ -53,6 +59,3 @@ Choose the Download Option: When prompted, enter 1 to download a single video or
 Enter the URL: Provide the URL of the YouTube video or playlist you want to download.
 Specify the Download Folder: Enter the path to the folder where you want the files to be saved.
 Download Progress: The application will display the download progress in the terminal.
-
-'''
-```
