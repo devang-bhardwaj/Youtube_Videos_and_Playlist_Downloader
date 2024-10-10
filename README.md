@@ -25,7 +25,7 @@ git clone https://github.com/devang-bhardwaj/Youtube_Videos_and_Playlist_Downloa
 
 ### Step 2: Navigate to the Project Directory
 
-- Change your working directory to the project folder:
+Change your working directory to the project folder:
 
 ```bash
 cd youtube-downloader
@@ -55,7 +55,7 @@ python youtube_downloader.py
 
 ### Usage Instructions:
 
-Choose the Download Option: When prompted, enter 1 to download a single video or 2 to download a playlist.
-Enter the URL: Provide the URL of the YouTube video or playlist you want to download.
-Specify the Download Folder: Enter the path to the folder where you want the files to be saved.
-Download Progress: The application will display the download progress in the terminal.
+1. Choose the Download Option: When prompted, enter 1 to download a single video or 2 to download a playlist.
+2. Enter the URL: Provide the URL of the YouTube video or playlist you want to download.
+3. Specify the Download Folder: Enter the path to the folder where you want the files to be saved.
+4. Download Progress: The application will display the download progress in the terminal.
